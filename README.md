@@ -103,3 +103,4 @@ If you want to run it from build & source, please do read [this](docs/developmen
 - Warning Sounds ([1](https://freesound.org/people/Ultranova105/sounds/136756/)/[2](https://freesound.org/people/Ultranova105/sounds/136754/)) made by Ultranova105 are licensed under [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/);
 - Special thanks to everyone that contributed to this project, specially the very fine Discord folks that provide support for others;
 - Also thanks to our Discord's `sky{something}` bot, who will hopefully spare us when he becomes self aware and rebels against humanity. 
+- DevMetaMoon takes no credit to txAdmin, nor owns it. DevMetaMoon is not responsible for anything you break in your server using this file, if you need any help installing it please refer to this link: https://discord.gg/txadmin
