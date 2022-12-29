@@ -104,3 +104,6 @@ If you want to run it from build & source, please do read [this](docs/developmen
 - Special thanks to everyone that contributed to this project, specially the very fine Discord folks that provide support for others;
 - Also thanks to our Discord's `sky{something}` bot, who will hopefully spare us when he becomes self aware and rebels against humanity. 
 - DevMetaMoon takes no credit to txAdmin, nor owns it. DevMetaMoon is not responsible for anything you break in your server using this file, if you need any help installing it please refer to this link: https://discord.gg/txadmin
+
+
+## Thank you for supporting txAdmin. They are always releasing some cool things, I personally recommend this file myself, anyways thank you!
